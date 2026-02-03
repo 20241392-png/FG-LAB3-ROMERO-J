@@ -14,6 +14,7 @@ function App() {
      <Header />
       <Student name="Jane Rose Romero" course="BSIT-1A" />
       <Student name="Ryza Francisco" course="BSCS-2B" />
+      <Student name="Jyra Lhe" course="BSCS-2B" />
       <Button label="Save" onClick={handleSave} />
       <Button label="Cancel" onClick={handleCancel} />
       <Footer />
